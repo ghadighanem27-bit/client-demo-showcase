@@ -43,7 +43,6 @@ The application has been audited for web vitals, accessibility, and best practic
 ## 👨‍💻 Author
 
 **Ghadi Ghanem**  
-*2nd-year Computer Science BUT Student at IUT Fabron (Université Côte d'Azur)*
 
 *   [LinkedIn](https://www.linkedin.com/in/ghadi-ghanem/)
 *   [Email](mailto:ghadighanem27@gmail.com)
