@@ -1,7 +1,5 @@
 # Le Cèdre — Gastronomic Restaurant (Showcase)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://demo-le-cedre.netlify.app/)
-
 A modern, fully responsive web interface designed and developed as a proof of concept (POC) for **Le Cèdre**, a fine-dining Lebanese restaurant located in Nice, France. 
 
 **🔗 [Live Demonstration](https://demo-le-cedre.netlify.app/)**
